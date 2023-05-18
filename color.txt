@@ -1,5 +1,5 @@
 Mis colores favoritos son:
 
-Negro
-Rosa
-Lila
+1. Negro
+2. Rosa
+3. Lila
